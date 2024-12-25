@@ -4,4 +4,8 @@ def sum_numbers(numbers):
 
 print(sum_numbers([1, 2, 3, 4, 5]))
 
+# Question 3: Find the Largest Number in a List
+def find_largest(numbers):
+    return max(numbers)
 
+print(find_largest([3, 5, 7, 2, 8]))
