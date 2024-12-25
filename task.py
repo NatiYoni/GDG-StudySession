@@ -27,3 +27,4 @@ def word_frequency(sentence):
     return freq
 
 print(word_frequency("this is a test this is only a test"))
+
